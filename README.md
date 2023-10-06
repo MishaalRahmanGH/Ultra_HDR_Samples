@@ -1,8 +1,8 @@
-# Ultra_HDR_Samples
+# Ultra HDR Samples
 
 This repository contains Ultra HDR (JPEG_R) photo samples captured on a Pixel 6 Pro running Android 14 QPR1 Beta 2 with Google Camera version 9.1.098 extracted from a Pixel 8 Pro. The samples are divided into two directories: "Originals" and "SDR Emulation".
 
-"Originals" contains the original photos captured by Mishaal Rahman on his Pixel 6 Pro. "SDR Emulation" contains two variants of each photo from the "Originals" directory. Display analyst Dylan Raga extracted the gain map from the "Originals" images, took the highest pixel value in the gain map (usually 255 = white), reduced the maximum pixel level of the original image to half (128), and added the gain map pixel values to the "_base" images to create the "_hdr" images.
+"Originals" contains the original photos captured by [Mishaal Rahman](https://linktr.ee/MishaalRahman) on his Pixel 6 Pro. "SDR Emulation" contains two variants of each photo from the "Originals" directory. Display analyst [Dylan Raga](https://twitter.com/dylan_raga) extracted the gain map from the "Originals" images, took the highest pixel value in the gain map (usually 255 = white), reduced the maximum pixel level of the original image to half (128), and added the gain map pixel values to the "_base" images to create the "_hdr" images.
 
 The purpose of these modifications is to emulate what an SDR image *should* look like on an SDR display (as shown on an SDR display) as well as what an HDR image *should* look like on an HDR display (as shown on an SDR display). 
 
