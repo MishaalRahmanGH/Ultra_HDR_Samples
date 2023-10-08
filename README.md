@@ -8,7 +8,13 @@ This repository contains Ultra HDR (JPEG_R) photo samples captured on a Pixel 6 
 
 The purpose of these modifications is to emulate what an SDR image *should* look like on an SDR display (as shown on an SDR display) as well as what an HDR image *should* look like on an HDR display (as shown on an SDR display). 
 
-If you are viewing this repository on a device with an HDR-capable display and an operating system/browser that supports Ultra HDR (eg. a PC with an HDR display running Chrome on Windows 11, or a phone with an HDR display running Chrome on Android 14), then you should be able to view the "Originals" (embedded below and found in the "Originals" directory) in HDR.
+If you are viewing this repository on a device with an HDR-capable display and an operating system/browser that supports Ultra HDR, then you should be able to view the "Originals" (embedded below and found in the "Originals" directory) in HDR. The following devices/OSes/browsers have been tested:
+
+* A Windows 11 PC, with Google Chrome, connected to an LG 42C2
+* A 16" M2 MacBook Pro, with Arc
+* A Pixel 7 Pro, with Google Chrome, running Android 14
+
+(HDR image support on Android requires the Android 14 OS, a device that supports [SDR dimming](https://www.esper.io/blog/android-sdr-dimming) (eg. Pixel 7 and later), and a recent version of [any Chromium-based browser](https://chromium.googlesource.com/chromium/src/+/4f28fb30555f5c211d4cbb760a87043264808dee).)
 
 ![Ultra_HDR_Samples_Originals_01](https://github.com/MishaalRahmanGH/Ultra_HDR_Samples/blob/main/Originals/Ultra_HDR_Samples_Originals_01.jpg?raw=true)
 ![Ultra_HDR_Samples_Originals_02](https://github.com/MishaalRahmanGH/Ultra_HDR_Samples/blob/main/Originals/Ultra_HDR_Samples_Originals_02.jpg?raw=true)
