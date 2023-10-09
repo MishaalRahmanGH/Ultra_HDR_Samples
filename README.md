@@ -6,7 +6,7 @@ This repository contains Ultra HDR (JPEG_R) photo samples captured on a Pixel 6 
 
 ![Ultra_HDR_Comparison_5_Watermarked](https://github.com/MishaalRahmanGH/Ultra_HDR_Samples/blob/main/Ultra_HDR_Comparison_5_Watermarked.png?raw=true)
 
-(More of these graphics are available on the accompanying [*Android Police* article](https://www.androidpolice.com/).)
+(More of these graphics are available on the accompanying [*Android Police* article](https://www.androidpolice.com/android-14-ultra-hdr-hands-on/).)
 
 The purpose of these modifications is to emulate what an SDR image *should* look like on an SDR display (as shown on an SDR display) as well as what an HDR image *should* look like on an HDR display (as shown on an SDR display). 
 
